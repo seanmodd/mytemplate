@@ -13,6 +13,7 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: Poppins;
 }
 .container {
   min-height: 100vh;
